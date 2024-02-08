@@ -1,0 +1,1354 @@
+2023-05-16 16:22:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 16:22:18 - Started 10540
+2023-05-17 14:06:59 - Stopping mqttlalanalarmpublisher.exe
+2023-05-17 14:06:59 - ProcessKill 10540
+2023-05-17 14:06:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-17 14:07:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-17 14:07:26 - Started 3164
+2023-05-18 12:32:24 - Stopping mqttlalanalarmpublisher.exe
+2023-05-18 12:32:24 - ProcessKill 3164
+2023-05-18 12:32:25 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-18 12:32:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-18 12:32:44 - Started 4056
+2023-05-18 22:59:55 - Stopping mqttlalanalarmpublisher.exe
+2023-05-18 22:59:55 - ProcessKill 4056
+2023-05-18 22:59:55 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-18 23:00:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-18 23:00:20 - Started 3996
+2023-05-19 16:24:34 - Stopping mqttlalanalarmpublisher.exe
+2023-05-19 16:24:34 - ProcessKill 3996
+2023-05-19 16:24:35 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-19 16:24:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 16:24:59 - Started 3972
+2023-05-19 17:18:12 - Stopping mqttlalanalarmpublisher.exe
+2023-05-19 17:18:12 - ProcessKill 3972
+2023-05-19 17:18:12 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-19 11:49:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 11:49:11 - Started 4144
+2023-05-22 13:38:04 - Stopping mqttlalanalarmpublisher.exe
+2023-05-22 13:38:04 - ProcessKill 4144
+2023-05-22 13:38:05 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-22 13:38:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-22 13:38:21 - Started 4172
+2023-05-22 16:12:43 - Stopping mqttlalanalarmpublisher.exe
+2023-05-22 16:12:43 - ProcessKill 4172
+2023-05-22 16:12:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-22 16:13:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-22 16:13:01 - Started 3564
+2023-05-22 16:18:00 - Stopping mqttlalanalarmpublisher.exe
+2023-05-22 16:18:00 - ProcessKill 3564
+2023-05-22 16:18:00 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-23 10:10:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 10:10:33 - Started 4060
+2023-05-23 17:48:53 - Stopping mqttlalanalarmpublisher.exe
+2023-05-23 17:48:53 - ProcessKill 4060
+2023-05-23 17:48:53 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-23 12:20:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 12:20:19 - Started 4084
+2023-05-23 23:55:29 - Stopping mqttlalanalarmpublisher.exe
+2023-05-23 23:55:29 - ProcessKill 4084
+2023-05-23 23:55:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-23 23:55:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 23:55:50 - Started 4220
+2023-05-24 15:19:02 - Stopping mqttlalanalarmpublisher.exe
+2023-05-24 15:19:02 - ProcessKill 4220
+2023-05-24 15:19:03 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-24 09:49:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-24 09:49:41 - Started 4124
+2023-05-26 14:20:19 - Stopping mqttlalanalarmpublisher.exe
+2023-05-26 14:20:19 - ProcessKill 4124
+2023-05-26 14:20:20 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-26 14:20:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-26 14:20:51 - Started 3100
+2023-05-28 13:15:36 - Stopping mqttlalanalarmpublisher.exe
+2023-05-28 13:15:36 - ProcessKill 3100
+2023-05-28 13:15:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-28 13:15:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-28 13:15:58 - Started 4152
+2023-05-29 12:59:19 - Stopping mqttlalanalarmpublisher.exe
+2023-05-29 12:59:19 - ProcessKill 4152
+2023-05-29 12:59:19 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-29 12:59:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-29 12:59:36 - Started 4248
+2023-06-01 08:30:29 - Stopping mqttlalanalarmpublisher.exe
+2023-06-01 08:30:29 - ProcessKill 4248
+2023-06-01 08:30:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-01 08:30:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 08:30:47 - Started 4180
+2023-06-02 08:06:26 - Stopping mqttlalanalarmpublisher.exe
+2023-06-02 08:06:26 - ProcessKill 4180
+2023-06-02 08:06:27 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-02 08:06:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 08:06:43 - Started 4056
+2023-06-05 08:28:53 - Stopping mqttlalanalarmpublisher.exe
+2023-06-05 08:28:53 - ProcessKill 4056
+2023-06-05 08:28:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-05 08:29:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 08:29:14 - Started 4040
+2023-06-06 09:20:39 - Stopping mqttlalanalarmpublisher.exe
+2023-06-06 09:20:39 - ProcessKill 4040
+2023-06-06 09:20:40 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-06 09:20:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-06 09:20:56 - Started 4104
+2023-06-07 08:26:51 - Stopping mqttlalanalarmpublisher.exe
+2023-06-07 08:26:51 - ProcessKill 4104
+2023-06-07 08:26:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-07 08:27:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 08:27:07 - Started 3408
+2023-06-07 08:52:35 - Stopping mqttlalanalarmpublisher.exe
+2023-06-07 08:52:35 - ProcessKill 3408
+2023-06-07 08:52:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-07 08:52:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 08:52:51 - Started 2680
+2023-06-08 08:20:28 - Stopping mqttlalanalarmpublisher.exe
+2023-06-08 08:20:28 - ProcessKill 2680
+2023-06-08 08:20:29 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-08 08:20:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-08 08:20:46 - Started 4160
+2023-06-08 08:24:54 - Stopping mqttlalanalarmpublisher.exe
+2023-06-08 08:24:54 - ProcessKill 4160
+2023-06-08 08:24:55 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-08 08:25:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-08 08:25:09 - Started 4044
+2023-06-09 08:24:30 - Stopping mqttlalanalarmpublisher.exe
+2023-06-09 08:24:30 - ProcessKill 4044
+2023-06-09 08:24:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-09 08:24:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-09 08:24:49 - Started 3580
+2023-06-14 07:45:57 - Stopping mqttlalanalarmpublisher.exe
+2023-06-14 07:45:57 - ProcessKill 3580
+2023-06-14 07:45:57 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-14 07:46:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 07:46:18 - Started 4084
+2023-06-14 08:05:30 - Stopping mqttlalanalarmpublisher.exe
+2023-06-14 08:05:30 - ProcessKill 4084
+2023-06-14 08:05:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-14 08:05:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-14 08:05:45 - Started 3704
+2023-06-15 08:14:50 - Stopping mqttlalanalarmpublisher.exe
+2023-06-15 08:14:50 - ProcessKill 3704
+2023-06-15 08:14:51 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-15 08:15:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-15 08:15:12 - Started 4100
+2023-06-16 08:24:43 - Stopping mqttlalanalarmpublisher.exe
+2023-06-16 08:24:43 - ProcessKill 4100
+2023-06-16 08:24:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-16 08:25:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-16 08:25:13 - Started 2268
+2023-06-17 12:56:36 - Stopping mqttlalanalarmpublisher.exe
+2023-06-17 12:56:36 - ProcessKill 2268
+2023-06-17 12:56:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-17 12:56:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-17 12:56:53 - Started 3236
+2023-06-18 09:30:24 - Stopping mqttlalanalarmpublisher.exe
+2023-06-18 09:30:24 - ProcessKill 3236
+2023-06-18 09:30:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-18 09:30:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-18 09:30:40 - Started 3176
+2023-06-19 08:57:03 - Stopping mqttlalanalarmpublisher.exe
+2023-06-19 08:57:03 - ProcessKill 3176
+2023-06-19 08:57:03 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-19 08:57:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-19 08:57:27 - Started 3292
+2023-06-21 09:03:04 - Stopping mqttlalanalarmpublisher.exe
+2023-06-21 09:03:04 - ProcessKill 3292
+2023-06-21 09:03:05 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-21 09:03:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 09:03:25 - Started 4056
+2023-06-21 16:52:07 - Stopping mqttlalanalarmpublisher.exe
+2023-06-21 16:52:07 - ProcessKill 4056
+2023-06-21 16:52:07 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-21 11:24:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 11:24:07 - Started 4264
+2023-06-21 16:55:33 - Stopping mqttlalanalarmpublisher.exe
+2023-06-21 16:55:33 - ProcessKill 4264
+2023-06-21 16:55:34 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-21 11:26:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 11:26:11 - Started 4832
+2023-06-22 10:54:00 - Stopping mqttlalanalarmpublisher.exe
+2023-06-22 10:54:00 - ProcessKill 4832
+2023-06-22 10:54:01 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-22 10:54:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-22 10:54:22 - Started 5052
+2023-06-23 10:18:04 - Stopping mqttlalanalarmpublisher.exe
+2023-06-23 10:18:04 - ProcessKill 5052
+2023-06-23 10:18:05 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-23 10:18:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-23 10:18:40 - Started 5096
+2023-06-23 11:09:46 - Stopping mqttlalanalarmpublisher.exe
+2023-06-23 11:09:46 - ProcessKill 5096
+2023-06-23 11:09:46 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-23 11:10:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-23 11:10:09 - Started 4488
+2023-06-24 13:05:23 - Stopping mqttlalanalarmpublisher.exe
+2023-06-24 13:05:23 - ProcessKill 4488
+2023-06-24 13:05:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-24 13:06:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-24 13:06:03 - Started 4388
+2023-06-26 15:26:43 - Stopping mqttlalanalarmpublisher.exe
+2023-06-26 15:26:43 - ProcessKill 4388
+2023-06-26 15:26:44 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-26 15:27:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-26 15:27:09 - Started 5060
+2023-06-28 15:40:45 - Stopping mqttlalanalarmpublisher.exe
+2023-06-28 15:40:45 - ProcessKill 5060
+2023-06-28 15:40:45 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-28 15:41:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-28 15:41:17 - Started 4172
+2023-06-29 15:31:26 - Stopping mqttlalanalarmpublisher.exe
+2023-06-29 15:31:26 - ProcessKill 4172
+2023-06-29 15:31:26 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-06-29 15:31:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-29 15:31:47 - Started 5080
+2023-07-07 10:44:36 - Stopping mqttlalanalarmpublisher.exe
+2023-07-07 10:44:36 - ProcessKill 5080
+2023-07-07 10:44:37 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-07 10:45:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-07 10:45:30 - Started 4668
+2023-07-09 14:59:16 - Stopping mqttlalanalarmpublisher.exe
+2023-07-09 14:59:16 - ProcessKill 4668
+2023-07-09 14:59:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-09 14:59:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-09 14:59:44 - Started 3172
+2023-07-10 09:18:23 - Stopping mqttlalanalarmpublisher.exe
+2023-07-10 09:18:23 - ProcessKill 3172
+2023-07-10 09:18:23 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-10 09:18:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-10 09:18:47 - Started 4276
+2023-07-11 09:38:55 - Stopping mqttlalanalarmpublisher.exe
+2023-07-11 09:38:55 - ProcessKill 4276
+2023-07-11 09:38:56 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-11 09:39:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-11 09:39:16 - Started 4328
+2023-07-11 17:02:35 - Stopping mqttlalanalarmpublisher.exe
+2023-07-11 17:02:35 - ProcessKill 4328
+2023-07-11 17:02:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-11 17:03:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-11 17:03:02 - Started 5116
+2023-07-12 11:23:19 - Stopping mqttlalanalarmpublisher.exe
+2023-07-12 11:23:19 - ProcessKill 5116
+2023-07-12 11:23:20 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-12 11:23:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-12 11:23:41 - Started 3628
+2023-07-13 11:38:43 - Stopping mqttlalanalarmpublisher.exe
+2023-07-13 11:38:43 - ProcessKill 3628
+2023-07-13 11:38:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-13 11:39:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-13 11:39:03 - Started 5176
+2023-07-15 11:56:12 - Stopping mqttlalanalarmpublisher.exe
+2023-07-15 11:56:12 - ProcessKill 5176
+2023-07-15 11:56:12 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-15 11:56:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-15 11:56:38 - Started 4920
+2023-07-16 13:44:40 - Stopping mqttlalanalarmpublisher.exe
+2023-07-16 13:44:40 - ProcessKill 4920
+2023-07-16 13:44:40 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-16 13:45:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-16 13:45:00 - Started 4296
+2023-07-17 11:42:38 - Stopping mqttlalanalarmpublisher.exe
+2023-07-17 11:42:38 - ProcessKill 4296
+2023-07-17 11:42:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-17 11:43:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-17 11:43:00 - Started 5072
+2023-07-17 12:22:16 - Stopping mqttlalanalarmpublisher.exe
+2023-07-17 12:22:16 - ProcessKill 5072
+2023-07-17 12:22:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-17 12:22:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-17 12:22:44 - Started 3716
+2023-07-17 15:58:02 - Stopping mqttlalanalarmpublisher.exe
+2023-07-17 15:58:02 - ProcessKill 3716
+2023-07-17 15:58:02 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-17 15:58:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-17 15:58:23 - Started 4944
+2023-07-18 15:03:59 - Stopping mqttlalanalarmpublisher.exe
+2023-07-18 15:03:59 - ProcessKill 4944
+2023-07-18 15:03:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-18 15:04:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-18 15:04:21 - Started 4136
+2023-07-19 14:15:13 - Stopping mqttlalanalarmpublisher.exe
+2023-07-19 14:15:13 - ProcessKill 4136
+2023-07-19 14:15:13 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-19 14:15:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-19 14:15:34 - Started 4208
+2023-07-20 11:39:07 - Stopping mqttlalanalarmpublisher.exe
+2023-07-20 11:39:07 - ProcessKill 4208
+2023-07-20 11:39:07 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-20 11:39:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-20 11:39:29 - Started 5168
+2023-07-20 16:05:54 - Stopping mqttlalanalarmpublisher.exe
+2023-07-20 16:05:54 - ProcessKill 5168
+2023-07-20 16:05:54 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-20 16:06:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-20 16:06:13 - Started 5104
+2023-07-21 07:46:27 - Stopping mqttlalanalarmpublisher.exe
+2023-07-21 07:46:27 - ProcessKill 5104
+2023-07-21 07:46:28 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-21 07:46:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-21 07:46:47 - Started 2420
+2023-07-21 13:43:33 - Stopping mqttlalanalarmpublisher.exe
+2023-07-21 13:43:33 - ProcessKill 2420
+2023-07-21 13:43:33 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-21 13:43:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-21 13:43:52 - Started 4536
+2023-07-21 14:06:49 - Stopping mqttlalanalarmpublisher.exe
+2023-07-21 14:06:49 - ProcessKill 4536
+2023-07-21 14:06:49 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-21 14:07:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-21 14:07:07 - Started 4948
+2023-07-27 21:57:48 - Stopping mqttlalanalarmpublisher.exe
+2023-07-27 21:57:48 - ProcessKill 4948
+2023-07-27 21:57:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-27 21:58:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-27 21:58:17 - Started 5096
+2023-07-28 08:31:56 - Stopping mqttlalanalarmpublisher.exe
+2023-07-28 08:31:56 - ProcessKill 5096
+2023-07-28 08:31:56 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-07-28 08:32:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-28 08:32:17 - Started 5188
+2023-07-28 21:07:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-07-28 21:07:49 - Started 4264
+2023-08-01 06:28:35 - Stopping mqttlalanalarmpublisher.exe
+2023-08-01 06:28:35 - ProcessKill 4264
+2023-08-01 06:28:36 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-01 06:28:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-01 06:28:54 - Started 5052
+2023-08-03 08:39:53 - Stopping mqttlalanalarmpublisher.exe
+2023-08-03 08:39:53 - ProcessKill 5052
+2023-08-03 08:39:53 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-03 08:40:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-03 08:40:14 - Started 5108
+2023-08-04 16:05:49 - Stopping mqttlalanalarmpublisher.exe
+2023-08-04 16:05:49 - ProcessKill 5108
+2023-08-04 16:05:49 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-04 16:06:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-04 16:06:18 - Started 2988
+2023-08-05 19:05:54 - Stopping mqttlalanalarmpublisher.exe
+2023-08-05 19:05:54 - ProcessKill 2988
+2023-08-05 19:05:55 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-05 19:06:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-05 19:06:14 - Started 4492
+2023-08-06 19:43:31 - Stopping mqttlalanalarmpublisher.exe
+2023-08-06 19:43:31 - ProcessKill 4492
+2023-08-06 19:43:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-06 19:43:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-06 19:43:51 - Started 4528
+2023-08-08 12:46:05 - Stopping mqttlalanalarmpublisher.exe
+2023-08-08 12:46:05 - ProcessKill 4528
+2023-08-08 12:46:06 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-08 12:46:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-08 12:46:28 - Started 4520
+2023-08-09 08:38:38 - Stopping mqttlalanalarmpublisher.exe
+2023-08-09 08:38:38 - ProcessKill 4520
+2023-08-09 08:38:39 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-09 08:38:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-09 08:38:59 - Started 5092
+2023-08-14 09:10:08 - Stopping mqttlalanalarmpublisher.exe
+2023-08-14 09:10:08 - ProcessKill 5092
+2023-08-14 09:10:09 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-14 09:10:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-14 09:10:34 - Started 4212
+2023-08-22 17:14:16 - Stopping mqttlalanalarmpublisher.exe
+2023-08-22 17:14:16 - ProcessKill 4212
+2023-08-22 17:14:16 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-22 17:14:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-22 17:14:48 - Started 4420
+2023-09-14 22:44:51 - Stopping mqttlalanalarmpublisher.exe
+2023-09-14 22:44:51 - ProcessKill 4420
+2023-09-14 22:44:51 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-14 22:45:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-14 22:45:17 - Started 4412
+2023-09-20 21:11:42 - Stopping mqttlalanalarmpublisher.exe
+2023-09-20 21:11:42 - ProcessKill 4412
+2023-09-20 21:11:43 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-20 21:12:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-20 21:12:02 - Started 4480
+2023-09-20 21:31:48 - Stopping mqttlalanalarmpublisher.exe
+2023-09-20 21:31:48 - ProcessKill 4480
+2023-09-20 21:31:48 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-20 21:32:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-20 21:32:08 - Started 5184
+2023-09-21 09:17:59 - Stopping mqttlalanalarmpublisher.exe
+2023-09-21 09:17:59 - ProcessKill 5184
+2023-09-21 09:17:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-21 09:18:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-21 09:18:20 - Started 5016
+2023-09-21 22:26:37 - Stopping mqttlalanalarmpublisher.exe
+2023-09-21 22:26:37 - ProcessKill 5016
+2023-09-21 22:26:37 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-21 22:26:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-21 22:26:57 - Started 4496
+2023-09-21 23:44:12 - Stopping mqttlalanalarmpublisher.exe
+2023-09-21 23:44:12 - ProcessKill 4496
+2023-09-21 23:44:13 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-21 23:44:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-21 23:44:38 - Started 4760
+2023-09-22 12:04:59 - Stopping mqttlalanalarmpublisher.exe
+2023-09-22 12:04:59 - ProcessKill 4760
+2023-09-22 12:04:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-22 12:05:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-22 12:05:19 - Started 3704
+2023-09-27 16:07:25 - Stopping mqttlalanalarmpublisher.exe
+2023-09-27 16:07:25 - ProcessKill 3704
+2023-09-27 16:07:25 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-09-27 16:07:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-27 16:07:46 - Started 4316
+2023-10-15 17:22:15 - Stopping mqttlalanalarmpublisher.exe
+2023-10-15 17:22:15 - ProcessKill 4316
+2023-10-15 17:22:15 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-17 11:10:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-17 11:10:43 - Started 4356
+2023-10-19 10:24:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-19 10:24:56 - Started 5024
+2023-10-19 12:37:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-19 12:37:11 - Started 4760
+2023-10-25 15:15:04 - Stopping mqttlalanalarmpublisher.exe
+2023-10-25 15:15:04 - ProcessKill 4760
+2023-10-25 15:15:04 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-25 15:15:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-25 15:15:35 - Started 4680
+2023-10-26 13:41:50 - Stopping mqttlalanalarmpublisher.exe
+2023-10-26 13:41:50 - ProcessKill 4680
+2023-10-26 13:41:50 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-10-26 08:12:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-10-26 08:12:17 - Started 4056
+2023-11-14 06:54:07 - Stopping mqttlalanalarmpublisher.exe
+2023-11-14 06:54:07 - ProcessKill 4056
+2023-11-14 06:54:07 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-11-14 06:54:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-14 06:54:36 - Started 5208
+2023-11-15 03:26:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-15 03:26:03 - Started 5064
+2023-11-21 14:25:00 - Stopping mqttlalanalarmpublisher.exe
+2023-11-21 14:25:00 - ProcessKill 5064
+2023-11-21 14:25:00 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-11-21 14:25:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-11-21 14:25:26 - Started 5228
+2023-12-15 17:23:03 - Stopping mqttlalanalarmpublisher.exe
+2023-12-15 17:23:03 - ProcessKill 5228
+2023-12-15 17:23:04 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-12-16 06:49:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\Lalan Project\Services-mqtt\Services\Services\mqtt-publisher\dist\app.js" --scriptoptions= --log "mqtt-lalan-alarm-publisher wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-12-16 06:49:55 - Started 4548
